@@ -1,0 +1,15 @@
+C:\Users\missh\source\repos\CIT195\MorningRoutine\MorningRoutine\obj\Debug\net6.0\MorningRoutine.csproj.AssemblyReference.cache
+C:\Users\missh\source\repos\CIT195\MorningRoutine\MorningRoutine\obj\Debug\net6.0\MorningRoutine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missh\source\repos\CIT195\MorningRoutine\MorningRoutine\obj\Debug\net6.0\MorningRoutine.AssemblyInfoInputs.cache
+C:\Users\missh\source\repos\CIT195\MorningRoutine\MorningRoutine\obj\Debug\net6.0\MorningRoutine.AssemblyInfo.cs
+C:\Users\missh\source\repos\CIT195\MorningRoutine\MorningRoutine\obj\Debug\net6.0\MorningRoutine.csproj.CoreCompileInputs.cache
+C:\Users\missh\source\repos\CIT195\MorningRoutine\MorningRoutine\bin\Debug\net6.0\MorningRoutine.exe
+C:\Users\missh\source\repos\CIT195\MorningRoutine\MorningRoutine\bin\Debug\net6.0\MorningRoutine.deps.json
+C:\Users\missh\source\repos\CIT195\MorningRoutine\MorningRoutine\bin\Debug\net6.0\MorningRoutine.runtimeconfig.json
+C:\Users\missh\source\repos\CIT195\MorningRoutine\MorningRoutine\bin\Debug\net6.0\MorningRoutine.dll
+C:\Users\missh\source\repos\CIT195\MorningRoutine\MorningRoutine\bin\Debug\net6.0\MorningRoutine.pdb
+C:\Users\missh\source\repos\CIT195\MorningRoutine\MorningRoutine\obj\Debug\net6.0\MorningRoutine.dll
+C:\Users\missh\source\repos\CIT195\MorningRoutine\MorningRoutine\obj\Debug\net6.0\refint\MorningRoutine.dll
+C:\Users\missh\source\repos\CIT195\MorningRoutine\MorningRoutine\obj\Debug\net6.0\MorningRoutine.pdb
+C:\Users\missh\source\repos\CIT195\MorningRoutine\MorningRoutine\obj\Debug\net6.0\MorningRoutine.genruntimeconfig.cache
+C:\Users\missh\source\repos\CIT195\MorningRoutine\MorningRoutine\obj\Debug\net6.0\ref\MorningRoutine.dll
